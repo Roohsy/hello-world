@@ -2,6 +2,6 @@
 Skill Lab
 
 This will be sued to test function on Github.
-Here is same!
+Here is different!
 
 
